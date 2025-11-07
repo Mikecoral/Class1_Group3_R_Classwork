@@ -1,0 +1,12 @@
+name: in_class_act
+title: in_class_act
+username: mikehong
+account: mikehong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15926903
+bundleId: 11111963
+url: https://mikehong.shinyapps.io/in_class_act/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

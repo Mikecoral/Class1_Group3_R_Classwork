@@ -4,10 +4,8 @@ library(scales)
 library(wordcloud)
 library(RColorBrewer)
 
-# 读取数据
 merged_data_rows <- read_excel("merged_publications__Robotics.xlsx")
 
-# 处理作者引用数据并绘制Top10作者柱状图
 author_split <- merged_data_rows %>%
   separate_rows(`Author Full Names`, sep = ";") %>%
   mutate(`Author Full Names` = str_trim(`Author Full Names`)) %>%
@@ -32,7 +30,6 @@ ggplot(top_authors, aes(x = `Author Full Names`, y = total_cites)) +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-# 处理文献类型数据并绘制饼图（修正排序问题）
 doc_type_stats <- merged_data_rows %>%
   separate_rows(`Document Type`, sep = ";") %>%
   mutate(`Document Type` = str_trim(`Document Type`)) %>%
@@ -61,7 +58,6 @@ doc_type_simplified <- doc_type_stats %>%
     percentage = scales::percent(sum(proportion))
   ) %>%
   arrange(proportion) %>%
-  # 关键：按比例从大到小设置因子水平，确保饼图排序正确
   mutate(`Document Type` = factor(`Document Type`, levels = rev(.$`Document Type`)))
 
 ggplot(doc_type_simplified, aes(x = "", y = proportion, fill = `Document Type`)) +
@@ -89,7 +85,6 @@ ggplot(doc_type_simplified, aes(x = "", y = proportion, fill = `Document Type`))
     plot.margin = margin(20, 20, 20, 20)
   )
 
-# 处理期刊数据并绘制词云
 journal_freq <- merged_data_rows %>%
   filter(!is.na(`Journal Abbreviation`)) %>%
   mutate(`Journal Abbreviation` = str_trim(`Journal Abbreviation`)) %>%
@@ -106,14 +101,3 @@ wordcloud(
   rot.per = 0.3,
   colors = brewer.pal(8, "Dark2")
 )
-
-
-
-
-
-
-
-
-
-  
-

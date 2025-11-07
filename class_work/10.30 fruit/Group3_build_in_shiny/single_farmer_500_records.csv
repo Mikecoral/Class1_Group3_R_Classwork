@@ -1,0 +1,501 @@
+Farmer_Name,Fruit_Type,Surplus_Amount,Price,Quality,Freezing_Status
+Mcclain,Strawberry,63.7,14.37,High,Awaiting Pickup
+Mcclain,Strawberry,95.9,13.81,High,At Freezing Facility
+Mcclain,Strawberry,44.0,13.1,High,Flash-Frozen & Ready
+Mcclain,Strawberry,35.2,11.09,Good,Awaiting Pickup
+Mcclain,Strawberry,84.1,10.83,Good,At Freezing Facility
+Mcclain,Strawberry,31.9,11.25,Good,Flash-Frozen & Ready
+Mcclain,Strawberry,104.9,6.89,Fair,Awaiting Pickup
+Mcclain,Strawberry,46.4,6.84,Fair,At Freezing Facility
+Mcclain,Strawberry,57.4,7.39,Fair,Flash-Frozen & Ready
+Mcclain,Blueberry,68.9,15.27,High,Awaiting Pickup
+Mcclain,Blueberry,85.1,15.02,High,At Freezing Facility
+Mcclain,Blueberry,56.3,15.39,High,Flash-Frozen & Ready
+Mcclain,Blueberry,71.0,12.46,Good,Awaiting Pickup
+Mcclain,Blueberry,48.0,12.02,Good,At Freezing Facility
+Mcclain,Blueberry,83.3,11.27,Good,Flash-Frozen & Ready
+Mcclain,Blueberry,84.7,7.87,Fair,Awaiting Pickup
+Mcclain,Blueberry,35.9,9.12,Fair,At Freezing Facility
+Mcclain,Blueberry,116.9,8.89,Fair,Flash-Frozen & Ready
+Mcclain,Apple,131.8,4.82,High,Awaiting Pickup
+Mcclain,Apple,196.3,5.36,High,At Freezing Facility
+Mcclain,Apple,100.7,5.45,High,Flash-Frozen & Ready
+Mcclain,Apple,85.8,4.85,Good,Awaiting Pickup
+Mcclain,Apple,124.0,4.46,Good,At Freezing Facility
+Mcclain,Apple,133.0,4.23,Good,Flash-Frozen & Ready
+Mcclain,Apple,172.9,2.44,Fair,Awaiting Pickup
+Mcclain,Apple,244.8,3.38,Fair,At Freezing Facility
+Mcclain,Apple,239.7,3.57,Fair,Flash-Frozen & Ready
+Mcclain,Mango,181.6,11.72,High,Awaiting Pickup
+Mcclain,Mango,95.0,10.56,High,At Freezing Facility
+Mcclain,Mango,87.7,10.77,High,Flash-Frozen & Ready
+Mcclain,Mango,146.1,8.13,Good,Awaiting Pickup
+Mcclain,Mango,220.9,8.27,Good,At Freezing Facility
+Mcclain,Mango,127.8,8.57,Good,Flash-Frozen & Ready
+Mcclain,Mango,104.0,6.43,Fair,Awaiting Pickup
+Mcclain,Mango,92.7,6.73,Fair,At Freezing Facility
+Mcclain,Mango,211.3,5.47,Fair,Flash-Frozen & Ready
+Mcclain,Peach,80.9,9.34,High,Awaiting Pickup
+Mcclain,Peach,200.2,9.21,High,At Freezing Facility
+Mcclain,Peach,211.1,8.16,High,Flash-Frozen & Ready
+Mcclain,Peach,140.9,6.19,Good,Awaiting Pickup
+Mcclain,Peach,226.7,7.0,Good,At Freezing Facility
+Mcclain,Peach,136.3,6.1,Good,Flash-Frozen & Ready
+Mcclain,Peach,132.9,4.48,Fair,Awaiting Pickup
+Mcclain,Peach,204.0,4.98,Fair,At Freezing Facility
+Mcclain,Peach,230.8,4.72,Fair,Flash-Frozen & Ready
+Mcclain,Kiwi,40.8,9.7,High,Awaiting Pickup
+Mcclain,Kiwi,98.5,9.46,High,At Freezing Facility
+Mcclain,Kiwi,99.4,9.35,High,Flash-Frozen & Ready
+Mcclain,Kiwi,77.0,7.08,Good,Awaiting Pickup
+Mcclain,Kiwi,32.3,6.57,Good,At Freezing Facility
+Mcclain,Kiwi,32.8,7.42,Good,Flash-Frozen & Ready
+Mcclain,Kiwi,58.3,5.05,Fair,Awaiting Pickup
+Mcclain,Kiwi,111.7,4.64,Fair,At Freezing Facility
+Mcclain,Kiwi,66.9,5.45,Fair,Flash-Frozen & Ready
+Mcclain,Orange,118.9,3.87,High,Awaiting Pickup
+Mcclain,Orange,129.3,4.01,High,At Freezing Facility
+Mcclain,Orange,238.0,5.04,High,Flash-Frozen & Ready
+Mcclain,Orange,187.7,4.09,Good,Awaiting Pickup
+Mcclain,Orange,216.6,3.0,Good,At Freezing Facility
+Mcclain,Orange,231.7,3.56,Good,Flash-Frozen & Ready
+Mcclain,Orange,217.3,3.08,Fair,Awaiting Pickup
+Mcclain,Orange,134.1,1.83,Fair,At Freezing Facility
+Mcclain,Orange,118.7,2.33,Fair,Flash-Frozen & Ready
+Mcclain,Grape,219.1,7.08,High,Awaiting Pickup
+Mcclain,Grape,81.2,6.52,High,At Freezing Facility
+Mcclain,Grape,151.0,6.06,High,Flash-Frozen & Ready
+Mcclain,Grape,100.4,4.74,Good,Awaiting Pickup
+Mcclain,Grape,240.3,4.72,Good,At Freezing Facility
+Mcclain,Grape,168.2,5.32,Good,Flash-Frozen & Ready
+Mcclain,Grape,141.8,4.25,Fair,Awaiting Pickup
+Mcclain,Grape,243.6,3.1,Fair,At Freezing Facility
+Mcclain,Grape,164.5,3.18,Fair,Flash-Frozen & Ready
+Mcclain,Pineapple,128.4,6.8,High,Awaiting Pickup
+Mcclain,Pineapple,183.6,7.54,High,At Freezing Facility
+Mcclain,Pineapple,88.8,7.19,High,Flash-Frozen & Ready
+Mcclain,Pineapple,234.4,5.38,Good,Awaiting Pickup
+Mcclain,Pineapple,104.6,5.78,Good,At Freezing Facility
+Mcclain,Pineapple,247.6,5.39,Good,Flash-Frozen & Ready
+Mcclain,Pineapple,194.3,4.48,Fair,Awaiting Pickup
+Mcclain,Pineapple,120.4,4.43,Fair,At Freezing Facility
+Mcclain,Pineapple,142.5,4.27,Fair,Flash-Frozen & Ready
+Mcclain,Cherry,87.0,14.36,High,Awaiting Pickup
+Mcclain,Cherry,38.1,14.84,High,At Freezing Facility
+Mcclain,Cherry,58.9,13.8,High,Flash-Frozen & Ready
+Mcclain,Cherry,33.7,11.15,Good,Awaiting Pickup
+Mcclain,Cherry,91.0,10.23,Good,At Freezing Facility
+Mcclain,Cherry,76.1,10.56,Good,Flash-Frozen & Ready
+Mcclain,Cherry,88.1,7.18,Fair,Awaiting Pickup
+Mcclain,Cherry,92.2,7.52,Fair,At Freezing Facility
+Mcclain,Cherry,114.3,7.12,Fair,Flash-Frozen & Ready
+Doyle,Strawberry,60.7,13.03,High,Awaiting Pickup
+Doyle,Strawberry,113.2,14.25,High,At Freezing Facility
+Doyle,Strawberry,53.2,13.91,High,Flash-Frozen & Ready
+Doyle,Strawberry,103.5,10.59,Good,Awaiting Pickup
+Doyle,Strawberry,77.7,10.09,Good,At Freezing Facility
+Doyle,Strawberry,38.4,11.14,Good,Flash-Frozen & Ready
+Doyle,Strawberry,111.0,7.56,Fair,Awaiting Pickup
+Doyle,Strawberry,60.5,7.11,Fair,At Freezing Facility
+Doyle,Strawberry,95.3,7.99,Fair,Flash-Frozen & Ready
+Doyle,Blueberry,109.8,16.05,High,Awaiting Pickup
+Doyle,Blueberry,87.8,14.93,High,At Freezing Facility
+Doyle,Blueberry,44.5,16.24,High,Flash-Frozen & Ready
+Doyle,Blueberry,84.6,11.21,Good,Awaiting Pickup
+Doyle,Blueberry,39.1,12.26,Good,At Freezing Facility
+Doyle,Blueberry,30.5,11.46,Good,Flash-Frozen & Ready
+Doyle,Blueberry,79.4,8.71,Fair,Awaiting Pickup
+Doyle,Blueberry,88.7,7.96,Fair,At Freezing Facility
+Doyle,Blueberry,94.1,7.98,Fair,Flash-Frozen & Ready
+Doyle,Apple,135.3,5.85,High,Awaiting Pickup
+Doyle,Apple,190.4,6.02,High,At Freezing Facility
+Doyle,Apple,191.8,5.57,High,Flash-Frozen & Ready
+Doyle,Apple,95.9,3.99,Good,Awaiting Pickup
+Doyle,Apple,125.1,3.79,Good,At Freezing Facility
+Doyle,Apple,245.4,4.03,Good,Flash-Frozen & Ready
+Doyle,Apple,231.6,3.15,Fair,Awaiting Pickup
+Doyle,Apple,215.1,2.94,Fair,At Freezing Facility
+Doyle,Apple,178.1,2.93,Fair,Flash-Frozen & Ready
+Doyle,Mango,113.2,11.41,High,Awaiting Pickup
+Doyle,Mango,127.7,10.29,High,At Freezing Facility
+Doyle,Mango,189.7,10.53,High,Flash-Frozen & Ready
+Doyle,Mango,239.9,9.23,Good,Awaiting Pickup
+Doyle,Mango,235.5,8.29,Good,At Freezing Facility
+Doyle,Mango,82.6,9.19,Good,Flash-Frozen & Ready
+Doyle,Mango,152.8,6.7,Fair,Awaiting Pickup
+Doyle,Mango,243.8,6.51,Fair,At Freezing Facility
+Doyle,Mango,130.1,5.77,Fair,Flash-Frozen & Ready
+Doyle,Peach,224.7,8.55,High,Awaiting Pickup
+Doyle,Peach,108.8,8.93,High,At Freezing Facility
+Doyle,Peach,239.1,9.15,High,Flash-Frozen & Ready
+Doyle,Peach,176.9,6.16,Good,Awaiting Pickup
+Doyle,Peach,184.6,7.58,Good,At Freezing Facility
+Doyle,Peach,103.8,6.83,Good,Flash-Frozen & Ready
+Doyle,Peach,229.2,5.15,Fair,Awaiting Pickup
+Doyle,Peach,198.5,5.08,Fair,At Freezing Facility
+Doyle,Peach,141.1,4.43,Fair,Flash-Frozen & Ready
+Doyle,Kiwi,102.8,9.86,High,Awaiting Pickup
+Doyle,Kiwi,108.0,10.02,High,At Freezing Facility
+Doyle,Kiwi,76.0,9.36,High,Flash-Frozen & Ready
+Doyle,Kiwi,101.8,7.44,Good,Awaiting Pickup
+Doyle,Kiwi,93.2,7.67,Good,At Freezing Facility
+Doyle,Kiwi,110.1,6.94,Good,Flash-Frozen & Ready
+Doyle,Kiwi,63.8,4.39,Fair,Awaiting Pickup
+Doyle,Kiwi,82.0,4.3,Fair,At Freezing Facility
+Doyle,Kiwi,71.9,5.11,Fair,Flash-Frozen & Ready
+Doyle,Orange,128.7,4.7,High,Awaiting Pickup
+Doyle,Orange,85.2,3.81,High,At Freezing Facility
+Doyle,Orange,219.8,4.33,High,Flash-Frozen & Ready
+Doyle,Orange,101.6,3.54,Good,Awaiting Pickup
+Doyle,Orange,210.9,3.05,Good,At Freezing Facility
+Doyle,Orange,185.9,2.84,Good,Flash-Frozen & Ready
+Doyle,Orange,88.8,2.5,Fair,Awaiting Pickup
+Doyle,Orange,171.9,2.67,Fair,At Freezing Facility
+Doyle,Orange,203.4,3.21,Fair,Flash-Frozen & Ready
+Doyle,Grape,167.8,6.22,High,Awaiting Pickup
+Doyle,Grape,215.2,6.13,High,At Freezing Facility
+Doyle,Grape,154.6,5.83,High,Flash-Frozen & Ready
+Doyle,Grape,84.3,5.74,Good,Awaiting Pickup
+Doyle,Grape,222.1,5.31,Good,At Freezing Facility
+Doyle,Grape,149.5,4.48,Good,Flash-Frozen & Ready
+Doyle,Grape,106.6,3.1,Fair,Awaiting Pickup
+Doyle,Grape,173.4,3.84,Fair,At Freezing Facility
+Doyle,Grape,192.2,3.15,Fair,Flash-Frozen & Ready
+Doyle,Pineapple,242.3,7.92,High,Awaiting Pickup
+Doyle,Pineapple,174.2,7.72,High,At Freezing Facility
+Doyle,Pineapple,151.3,7.14,High,Flash-Frozen & Ready
+Doyle,Pineapple,140.5,6.21,Good,Awaiting Pickup
+Doyle,Pineapple,82.4,5.19,Good,At Freezing Facility
+Doyle,Pineapple,87.8,5.07,Good,Flash-Frozen & Ready
+Doyle,Pineapple,225.4,4.39,Fair,Awaiting Pickup
+Doyle,Pineapple,160.6,3.42,Fair,At Freezing Facility
+Doyle,Pineapple,163.6,4.02,Fair,Flash-Frozen & Ready
+Doyle,Cherry,45.6,14.19,High,Awaiting Pickup
+Doyle,Cherry,65.9,14.49,High,At Freezing Facility
+Doyle,Cherry,87.2,13.57,High,Flash-Frozen & Ready
+Doyle,Cherry,63.7,11.2,Good,Awaiting Pickup
+Doyle,Cherry,75.3,11.57,Good,At Freezing Facility
+Doyle,Cherry,89.3,10.46,Good,Flash-Frozen & Ready
+Doyle,Cherry,36.4,7.93,Fair,Awaiting Pickup
+Doyle,Cherry,32.4,7.84,Fair,At Freezing Facility
+Doyle,Cherry,114.6,7.82,Fair,Flash-Frozen & Ready
+Davis,Strawberry,64.9,13.88,High,Awaiting Pickup
+Davis,Strawberry,71.2,13.72,High,At Freezing Facility
+Davis,Strawberry,114.7,13.47,High,Flash-Frozen & Ready
+Davis,Strawberry,116.5,11.15,Good,Awaiting Pickup
+Davis,Strawberry,47.6,9.81,Good,At Freezing Facility
+Davis,Strawberry,39.1,9.73,Good,Flash-Frozen & Ready
+Davis,Strawberry,38.5,7.64,Fair,Awaiting Pickup
+Davis,Strawberry,36.4,7.06,Fair,At Freezing Facility
+Davis,Strawberry,106.0,6.59,Fair,Flash-Frozen & Ready
+Davis,Blueberry,103.3,15.25,High,Awaiting Pickup
+Davis,Blueberry,40.6,15.91,High,At Freezing Facility
+Davis,Blueberry,86.6,16.2,High,Flash-Frozen & Ready
+Davis,Blueberry,96.2,12.49,Good,Awaiting Pickup
+Davis,Blueberry,55.4,11.48,Good,At Freezing Facility
+Davis,Blueberry,97.6,12.49,Good,Flash-Frozen & Ready
+Davis,Blueberry,119.1,8.26,Fair,Awaiting Pickup
+Davis,Blueberry,63.5,8.84,Fair,At Freezing Facility
+Davis,Blueberry,60.7,9.09,Fair,Flash-Frozen & Ready
+Davis,Apple,225.9,5.35,High,Awaiting Pickup
+Davis,Apple,207.6,5.87,High,At Freezing Facility
+Davis,Apple,97.5,6.1,High,Flash-Frozen & Ready
+Davis,Apple,165.9,4.72,Good,Awaiting Pickup
+Davis,Apple,134.4,4.83,Good,At Freezing Facility
+Davis,Apple,146.2,3.42,Good,Flash-Frozen & Ready
+Davis,Apple,233.9,2.29,Fair,Awaiting Pickup
+Davis,Apple,134.3,3.66,Fair,At Freezing Facility
+Davis,Apple,241.6,3.06,Fair,Flash-Frozen & Ready
+Davis,Mango,187.4,10.97,High,Awaiting Pickup
+Davis,Mango,129.8,10.78,High,At Freezing Facility
+Davis,Mango,194.3,11.45,High,Flash-Frozen & Ready
+Davis,Mango,214.6,8.96,Good,Awaiting Pickup
+Davis,Mango,95.5,8.49,Good,At Freezing Facility
+Davis,Mango,89.8,8.58,Good,Flash-Frozen & Ready
+Davis,Mango,155.1,6.57,Fair,Awaiting Pickup
+Davis,Mango,139.7,5.34,Fair,At Freezing Facility
+Davis,Mango,104.3,6.37,Fair,Flash-Frozen & Ready
+Davis,Peach,185.1,8.2,High,Awaiting Pickup
+Davis,Peach,94.3,9.16,High,At Freezing Facility
+Davis,Peach,92.4,9.35,High,Flash-Frozen & Ready
+Davis,Peach,200.1,6.13,Good,Awaiting Pickup
+Davis,Peach,94.4,7.58,Good,At Freezing Facility
+Davis,Peach,143.6,6.59,Good,Flash-Frozen & Ready
+Davis,Peach,218.2,5.48,Fair,Awaiting Pickup
+Davis,Peach,247.6,5.17,Fair,At Freezing Facility
+Davis,Peach,144.0,4.09,Fair,Flash-Frozen & Ready
+Davis,Kiwi,99.9,9.45,High,Awaiting Pickup
+Davis,Kiwi,68.2,10.01,High,At Freezing Facility
+Davis,Kiwi,40.0,9.35,High,Flash-Frozen & Ready
+Davis,Kiwi,31.0,7.15,Good,Awaiting Pickup
+Davis,Kiwi,35.1,6.59,Good,At Freezing Facility
+Davis,Kiwi,40.6,7.44,Good,Flash-Frozen & Ready
+Davis,Kiwi,97.1,5.17,Fair,Awaiting Pickup
+Davis,Kiwi,116.6,4.84,Fair,At Freezing Facility
+Davis,Kiwi,55.7,5.63,Fair,Flash-Frozen & Ready
+Davis,Orange,118.0,5.29,High,Awaiting Pickup
+Davis,Orange,82.1,5.3,High,At Freezing Facility
+Davis,Orange,87.3,5.18,High,Flash-Frozen & Ready
+Davis,Orange,169.7,4.29,Good,Awaiting Pickup
+Davis,Orange,92.5,3.59,Good,At Freezing Facility
+Davis,Orange,244.8,3.54,Good,Flash-Frozen & Ready
+Davis,Orange,187.0,2.76,Fair,Awaiting Pickup
+Davis,Orange,157.3,2.65,Fair,At Freezing Facility
+Davis,Orange,179.3,3.09,Fair,Flash-Frozen & Ready
+Davis,Grape,87.7,6.15,High,Awaiting Pickup
+Davis,Grape,241.6,7.12,High,At Freezing Facility
+Davis,Grape,157.5,6.69,High,Flash-Frozen & Ready
+Davis,Grape,127.2,4.5,Good,Awaiting Pickup
+Davis,Grape,158.8,4.77,Good,At Freezing Facility
+Davis,Grape,179.2,4.32,Good,Flash-Frozen & Ready
+Davis,Grape,245.6,4.28,Fair,Awaiting Pickup
+Davis,Grape,198.7,3.56,Fair,At Freezing Facility
+Davis,Grape,132.6,4.0,Fair,Flash-Frozen & Ready
+Davis,Pineapple,196.4,7.0,High,Awaiting Pickup
+Davis,Pineapple,234.9,8.06,High,At Freezing Facility
+Davis,Pineapple,241.5,7.9,High,Flash-Frozen & Ready
+Davis,Pineapple,184.3,5.67,Good,Awaiting Pickup
+Davis,Pineapple,238.6,6.39,Good,At Freezing Facility
+Davis,Pineapple,87.7,5.04,Good,Flash-Frozen & Ready
+Davis,Pineapple,144.0,4.56,Fair,Awaiting Pickup
+Davis,Pineapple,247.8,3.5,Fair,At Freezing Facility
+Davis,Pineapple,181.0,3.87,Fair,Flash-Frozen & Ready
+Davis,Cherry,117.3,14.85,High,Awaiting Pickup
+Davis,Cherry,105.4,14.25,High,At Freezing Facility
+Davis,Cherry,67.3,13.94,High,Flash-Frozen & Ready
+Davis,Cherry,35.1,11.58,Good,Awaiting Pickup
+Davis,Cherry,103.2,11.8,Good,At Freezing Facility
+Davis,Cherry,119.7,11.09,Good,Flash-Frozen & Ready
+Davis,Cherry,99.2,8.41,Fair,Awaiting Pickup
+Davis,Cherry,106.5,7.3,Fair,At Freezing Facility
+Davis,Cherry,70.5,7.11,Fair,Flash-Frozen & Ready
+Guzman,Strawberry,115.9,13.82,High,Awaiting Pickup
+Guzman,Strawberry,50.6,13.92,High,At Freezing Facility
+Guzman,Strawberry,85.6,13.42,High,Flash-Frozen & Ready
+Guzman,Strawberry,40.2,10.77,Good,Awaiting Pickup
+Guzman,Strawberry,76.8,10.94,Good,At Freezing Facility
+Guzman,Strawberry,76.8,11.06,Good,Flash-Frozen & Ready
+Guzman,Strawberry,79.7,7.45,Fair,Awaiting Pickup
+Guzman,Strawberry,108.9,7.2,Fair,At Freezing Facility
+Guzman,Strawberry,42.1,6.6,Fair,Flash-Frozen & Ready
+Guzman,Blueberry,98.0,15.79,High,Awaiting Pickup
+Guzman,Blueberry,93.4,15.14,High,At Freezing Facility
+Guzman,Blueberry,42.3,14.82,High,Flash-Frozen & Ready
+Guzman,Blueberry,61.6,12.14,Good,Awaiting Pickup
+Guzman,Blueberry,65.3,11.9,Good,At Freezing Facility
+Guzman,Blueberry,111.4,11.76,Good,Flash-Frozen & Ready
+Guzman,Blueberry,76.3,8.85,Fair,Awaiting Pickup
+Guzman,Blueberry,65.7,8.6,Fair,At Freezing Facility
+Guzman,Blueberry,107.6,9.12,Fair,Flash-Frozen & Ready
+Guzman,Apple,105.0,6.14,High,Awaiting Pickup
+Guzman,Apple,163.7,5.07,High,At Freezing Facility
+Guzman,Apple,158.1,6.23,High,Flash-Frozen & Ready
+Guzman,Apple,163.7,3.93,Good,Awaiting Pickup
+Guzman,Apple,187.7,3.78,Good,At Freezing Facility
+Guzman,Apple,92.9,3.61,Good,Flash-Frozen & Ready
+Guzman,Apple,101.8,2.38,Fair,Awaiting Pickup
+Guzman,Apple,103.6,3.17,Fair,At Freezing Facility
+Guzman,Apple,110.9,2.69,Fair,Flash-Frozen & Ready
+Guzman,Mango,232.5,11.01,High,Awaiting Pickup
+Guzman,Mango,193.5,10.53,High,At Freezing Facility
+Guzman,Mango,112.7,10.32,High,Flash-Frozen & Ready
+Guzman,Mango,108.7,8.15,Good,Awaiting Pickup
+Guzman,Mango,110.1,7.84,Good,At Freezing Facility
+Guzman,Mango,100.5,8.44,Good,Flash-Frozen & Ready
+Guzman,Mango,115.1,5.73,Fair,Awaiting Pickup
+Guzman,Mango,165.6,6.25,Fair,At Freezing Facility
+Guzman,Mango,86.7,6.43,Fair,Flash-Frozen & Ready
+Guzman,Peach,186.7,8.17,High,Awaiting Pickup
+Guzman,Peach,228.5,9.51,High,At Freezing Facility
+Guzman,Peach,90.4,8.48,High,Flash-Frozen & Ready
+Guzman,Peach,217.1,7.2,Good,Awaiting Pickup
+Guzman,Peach,111.4,6.33,Good,At Freezing Facility
+Guzman,Peach,143.0,6.78,Good,Flash-Frozen & Ready
+Guzman,Peach,185.1,4.55,Fair,Awaiting Pickup
+Guzman,Peach,158.6,5.16,Fair,At Freezing Facility
+Guzman,Peach,86.2,4.36,Fair,Flash-Frozen & Ready
+Guzman,Kiwi,94.2,9.99,High,Awaiting Pickup
+Guzman,Kiwi,76.1,9.41,High,At Freezing Facility
+Guzman,Kiwi,39.6,9.28,High,Flash-Frozen & Ready
+Guzman,Kiwi,77.9,6.79,Good,Awaiting Pickup
+Guzman,Kiwi,54.2,7.0,Good,At Freezing Facility
+Guzman,Kiwi,31.8,6.92,Good,Flash-Frozen & Ready
+Guzman,Kiwi,49.0,4.76,Fair,Awaiting Pickup
+Guzman,Kiwi,40.8,5.66,Fair,At Freezing Facility
+Guzman,Kiwi,83.4,5.33,Fair,Flash-Frozen & Ready
+Guzman,Orange,214.2,4.55,High,Awaiting Pickup
+Guzman,Orange,94.8,4.61,High,At Freezing Facility
+Guzman,Orange,179.8,4.94,High,Flash-Frozen & Ready
+Guzman,Orange,153.4,2.9,Good,Awaiting Pickup
+Guzman,Orange,128.2,3.28,Good,At Freezing Facility
+Guzman,Orange,189.8,3.61,Good,Flash-Frozen & Ready
+Guzman,Orange,140.5,3.23,Fair,Awaiting Pickup
+Guzman,Orange,183.0,2.03,Fair,At Freezing Facility
+Guzman,Orange,97.3,1.89,Fair,Flash-Frozen & Ready
+Guzman,Grape,121.8,5.96,High,Awaiting Pickup
+Guzman,Grape,111.7,6.16,High,At Freezing Facility
+Guzman,Grape,109.5,7.13,High,Flash-Frozen & Ready
+Guzman,Grape,93.6,5.04,Good,Awaiting Pickup
+Guzman,Grape,149.8,5.77,Good,At Freezing Facility
+Guzman,Grape,99.0,4.84,Good,Flash-Frozen & Ready
+Guzman,Grape,244.8,4.08,Fair,Awaiting Pickup
+Guzman,Grape,218.9,3.11,Fair,At Freezing Facility
+Guzman,Grape,109.1,3.77,Fair,Flash-Frozen & Ready
+Guzman,Pineapple,238.0,7.63,High,Awaiting Pickup
+Guzman,Pineapple,177.2,7.19,High,At Freezing Facility
+Guzman,Pineapple,210.8,7.04,High,Flash-Frozen & Ready
+Guzman,Pineapple,135.0,5.68,Good,Awaiting Pickup
+Guzman,Pineapple,166.3,5.39,Good,At Freezing Facility
+Guzman,Pineapple,99.5,5.98,Good,Flash-Frozen & Ready
+Guzman,Pineapple,129.1,4.19,Fair,Awaiting Pickup
+Guzman,Pineapple,106.2,4.03,Fair,At Freezing Facility
+Guzman,Pineapple,170.5,3.34,Fair,Flash-Frozen & Ready
+Guzman,Cherry,60.3,13.72,High,Awaiting Pickup
+Guzman,Cherry,35.7,15.08,High,At Freezing Facility
+Guzman,Cherry,59.0,14.8,High,Flash-Frozen & Ready
+Guzman,Cherry,52.9,11.29,Good,Awaiting Pickup
+Guzman,Cherry,98.4,11.15,Good,At Freezing Facility
+Guzman,Cherry,72.4,10.86,Good,Flash-Frozen & Ready
+Guzman,Cherry,61.4,8.39,Fair,Awaiting Pickup
+Guzman,Cherry,104.8,8.44,Fair,At Freezing Facility
+Guzman,Cherry,41.2,8.07,Fair,Flash-Frozen & Ready
+Gardner,Strawberry,114.5,13.14,High,Awaiting Pickup
+Gardner,Strawberry,36.0,14.04,High,At Freezing Facility
+Gardner,Strawberry,81.7,14.2,High,Flash-Frozen & Ready
+Gardner,Strawberry,42.6,10.97,Good,Awaiting Pickup
+Gardner,Strawberry,48.1,9.96,Good,At Freezing Facility
+Gardner,Strawberry,44.8,11.0,Good,Flash-Frozen & Ready
+Gardner,Strawberry,89.9,7.39,Fair,Awaiting Pickup
+Gardner,Strawberry,62.3,7.95,Fair,At Freezing Facility
+Gardner,Strawberry,65.3,7.86,Fair,Flash-Frozen & Ready
+Gardner,Blueberry,69.5,15.4,High,Awaiting Pickup
+Gardner,Blueberry,71.6,15.28,High,At Freezing Facility
+Gardner,Blueberry,97.3,15.6,High,Flash-Frozen & Ready
+Gardner,Blueberry,50.9,12.64,Good,Awaiting Pickup
+Gardner,Blueberry,64.6,12.07,Good,At Freezing Facility
+Gardner,Blueberry,111.6,12.2,Good,Flash-Frozen & Ready
+Gardner,Blueberry,40.5,9.1,Fair,Awaiting Pickup
+Gardner,Blueberry,86.5,8.14,Fair,At Freezing Facility
+Gardner,Blueberry,42.5,8.87,Fair,Flash-Frozen & Ready
+Gardner,Apple,185.4,5.51,High,Awaiting Pickup
+Gardner,Apple,232.0,5.92,High,At Freezing Facility
+Gardner,Apple,105.8,5.16,High,Flash-Frozen & Ready
+Gardner,Apple,122.2,4.59,Good,Awaiting Pickup
+Gardner,Apple,85.7,4.31,Good,At Freezing Facility
+Gardner,Apple,209.6,4.8,Good,Flash-Frozen & Ready
+Gardner,Apple,138.2,3.45,Fair,Awaiting Pickup
+Gardner,Apple,98.8,3.49,Fair,At Freezing Facility
+Gardner,Apple,101.7,2.78,Fair,Flash-Frozen & Ready
+Gardner,Mango,215.5,10.49,High,Awaiting Pickup
+Gardner,Mango,119.0,11.41,High,At Freezing Facility
+Gardner,Mango,202.4,11.28,High,Flash-Frozen & Ready
+Gardner,Mango,198.0,8.57,Good,Awaiting Pickup
+Gardner,Mango,122.8,8.25,Good,At Freezing Facility
+Gardner,Mango,110.9,9.15,Good,Flash-Frozen & Ready
+Gardner,Mango,179.2,5.79,Fair,Awaiting Pickup
+Gardner,Mango,158.5,6.67,Fair,At Freezing Facility
+Gardner,Mango,106.1,6.09,Fair,Flash-Frozen & Ready
+Gardner,Peach,166.0,9.02,High,Awaiting Pickup
+Gardner,Peach,83.1,9.44,High,At Freezing Facility
+Gardner,Peach,238.5,8.94,High,Flash-Frozen & Ready
+Gardner,Peach,198.4,7.48,Good,Awaiting Pickup
+Gardner,Peach,200.2,6.24,Good,At Freezing Facility
+Gardner,Peach,178.0,6.97,Good,Flash-Frozen & Ready
+Gardner,Peach,152.1,5.14,Fair,Awaiting Pickup
+Gardner,Peach,238.8,5.44,Fair,At Freezing Facility
+Gardner,Peach,156.6,4.14,Fair,Flash-Frozen & Ready
+Gardner,Kiwi,118.6,9.9,High,Awaiting Pickup
+Gardner,Kiwi,41.2,10.03,High,At Freezing Facility
+Gardner,Kiwi,108.3,9.39,High,Flash-Frozen & Ready
+Gardner,Kiwi,83.2,7.04,Good,Awaiting Pickup
+Gardner,Kiwi,34.9,6.94,Good,At Freezing Facility
+Gardner,Kiwi,102.3,6.41,Good,Flash-Frozen & Ready
+Gardner,Kiwi,60.0,4.88,Fair,Awaiting Pickup
+Gardner,Kiwi,78.4,5.71,Fair,At Freezing Facility
+Gardner,Kiwi,61.2,4.8,Fair,Flash-Frozen & Ready
+Gardner,Orange,205.4,4.47,High,Awaiting Pickup
+Gardner,Orange,118.2,4.47,High,At Freezing Facility
+Gardner,Orange,103.9,4.03,High,Flash-Frozen & Ready
+Gardner,Orange,164.7,3.37,Good,Awaiting Pickup
+Gardner,Orange,235.5,3.28,Good,At Freezing Facility
+Gardner,Orange,178.7,3.71,Good,Flash-Frozen & Ready
+Gardner,Orange,82.2,2.71,Fair,Awaiting Pickup
+Gardner,Orange,110.3,3.19,Fair,At Freezing Facility
+Gardner,Orange,105.3,2.31,Fair,Flash-Frozen & Ready
+Gardner,Grape,94.5,7.29,High,Awaiting Pickup
+Gardner,Grape,165.4,6.65,High,At Freezing Facility
+Gardner,Grape,91.4,6.9,High,Flash-Frozen & Ready
+Gardner,Grape,115.7,5.64,Good,Awaiting Pickup
+Gardner,Grape,114.9,4.51,Good,At Freezing Facility
+Gardner,Grape,86.2,4.96,Good,Flash-Frozen & Ready
+Gardner,Grape,176.0,2.81,Fair,Awaiting Pickup
+Gardner,Grape,211.8,3.43,Fair,At Freezing Facility
+Gardner,Grape,169.1,3.41,Fair,Flash-Frozen & Ready
+Gardner,Pineapple,148.1,7.64,High,Awaiting Pickup
+Gardner,Pineapple,106.4,7.03,High,At Freezing Facility
+Gardner,Pineapple,226.5,8.25,High,Flash-Frozen & Ready
+Gardner,Pineapple,143.5,5.43,Good,Awaiting Pickup
+Gardner,Pineapple,189.5,5.65,Good,At Freezing Facility
+Gardner,Pineapple,84.3,5.25,Good,Flash-Frozen & Ready
+Gardner,Pineapple,201.7,4.31,Fair,Awaiting Pickup
+Gardner,Pineapple,84.6,3.62,Fair,At Freezing Facility
+Gardner,Pineapple,119.3,4.34,Fair,Flash-Frozen & Ready
+Gardner,Cherry,31.8,13.67,High,Awaiting Pickup
+Gardner,Cherry,102.0,13.79,High,At Freezing Facility
+Gardner,Cherry,88.7,13.88,High,Flash-Frozen & Ready
+Gardner,Cherry,38.9,10.59,Good,Awaiting Pickup
+Gardner,Cherry,95.0,11.57,Good,At Freezing Facility
+Gardner,Cherry,104.7,10.84,Good,Flash-Frozen & Ready
+Gardner,Cherry,90.1,7.23,Fair,Awaiting Pickup
+Gardner,Cherry,56.4,8.33,Fair,At Freezing Facility
+Gardner,Cherry,31.2,7.04,Fair,Flash-Frozen & Ready
+Blake,Strawberry,48.7,12.89,High,Awaiting Pickup
+Blake,Strawberry,46.3,13.78,High,At Freezing Facility
+Blake,Strawberry,67.9,14.28,High,Flash-Frozen & Ready
+Blake,Strawberry,103.6,10.25,Good,Awaiting Pickup
+Blake,Strawberry,53.3,10.31,Good,At Freezing Facility
+Blake,Strawberry,83.1,10.13,Good,Flash-Frozen & Ready
+Blake,Strawberry,86.2,7.21,Fair,Awaiting Pickup
+Blake,Strawberry,79.7,7.25,Fair,At Freezing Facility
+Blake,Strawberry,56.5,8.07,Fair,Flash-Frozen & Ready
+Blake,Blueberry,98.7,15.02,High,Awaiting Pickup
+Blake,Blueberry,108.2,15.58,High,At Freezing Facility
+Blake,Blueberry,110.5,16.08,High,Flash-Frozen & Ready
+Blake,Blueberry,68.3,11.24,Good,Awaiting Pickup
+Blake,Blueberry,54.2,12.07,Good,At Freezing Facility
+Blake,Blueberry,87.0,11.61,Good,Flash-Frozen & Ready
+Blake,Blueberry,42.5,8.94,Fair,Awaiting Pickup
+Blake,Blueberry,118.6,8.44,Fair,At Freezing Facility
+Blake,Blueberry,45.5,8.04,Fair,Flash-Frozen & Ready
+Blake,Apple,83.1,6.12,High,Awaiting Pickup
+Blake,Apple,100.0,5.58,High,At Freezing Facility
+Blake,Apple,126.6,5.55,High,Flash-Frozen & Ready
+Blake,Apple,190.7,4.73,Good,Awaiting Pickup
+Blake,Apple,115.1,3.42,Good,At Freezing Facility
+Blake,Apple,103.3,4.84,Good,Flash-Frozen & Ready
+Blake,Apple,228.6,3.1,Fair,Awaiting Pickup
+Blake,Apple,182.1,3.2,Fair,At Freezing Facility
+Blake,Apple,109.8,3.6,Fair,Flash-Frozen & Ready
+Blake,Mango,151.2,10.86,High,Awaiting Pickup
+Blake,Mango,168.2,10.33,High,At Freezing Facility
+Blake,Mango,108.3,11.43,High,Flash-Frozen & Ready
+Blake,Mango,94.1,8.67,Good,Awaiting Pickup
+Blake,Mango,121.7,8.32,Good,At Freezing Facility
+Blake,Mango,129.1,8.27,Good,Flash-Frozen & Ready
+Blake,Mango,202.2,5.63,Fair,Awaiting Pickup
+Blake,Mango,176.3,5.91,Fair,At Freezing Facility
+Blake,Mango,192.8,6.65,Fair,Flash-Frozen & Ready
+Blake,Peach,204.5,8.38,High,Awaiting Pickup
+Blake,Peach,85.3,8.46,High,At Freezing Facility
+Blake,Peach,181.2,8.12,High,Flash-Frozen & Ready
+Blake,Peach,164.4,6.95,Good,Awaiting Pickup
+Blake,Peach,136.8,7.23,Good,At Freezing Facility
+Blake,Peach,98.1,6.12,Good,Flash-Frozen & Ready
+Blake,Peach,203.8,4.75,Fair,Awaiting Pickup
+Blake,Peach,197.0,4.66,Fair,At Freezing Facility
+Blake,Peach,121.9,5.27,Fair,Flash-Frozen & Ready
+Blake,Kiwi,101.9,9.67,High,Awaiting Pickup
+Blake,Kiwi,54.5,9.5,High,At Freezing Facility
+Blake,Kiwi,62.5,8.71,High,Flash-Frozen & Ready
+Blake,Kiwi,112.6,6.62,Good,Awaiting Pickup
+Blake,Kiwi,115.5,7.11,Good,At Freezing Facility
